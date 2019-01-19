@@ -1,0 +1,11 @@
+begin
+	int a = -5 ;
+	int b = -3 ;
+	if a <= b then
+	begin
+		while a <= 0 do
+		begin
+			a = a + 1 ;
+		end
+	end
+end
